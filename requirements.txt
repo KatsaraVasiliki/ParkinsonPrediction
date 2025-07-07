@@ -1,0 +1,13 @@
+itertools
+matplotlib
+mpl_toolkits
+numpy
+os
+pandas
+random
+scipy
+seaborn
+sklearn
+sys
+time
+winsound
