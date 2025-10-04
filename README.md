@@ -24,10 +24,19 @@ This project focuses on the **early detection of Parkinson's Disease (PD)** usin
 ---
 
 
+## Results
 
-## **Results**
+The study showed that the **RFE** feature reduction method, in combination with either **Random Forest** or **KNN** classifiers, provided the best performance for detecting Parkinson's Disease (PD):  
 
-The study showed that **Random Forest** and **KNN** classifiers provided the best results for detecting PD with high **accuracy** and **sensitivity**. The combination of feature reduction methods such as **RFE** yielded the most reliable results.
+- **Random Forest**:  
+  - Accuracy: 94%  
+  - Sensitivity: 87%  
+  - Specificity: 96%  
+
+- **K-Nearest Neighbors (KNN)**:  
+  - Accuracy: 92%  
+  - Sensitivity: 78%  
+  - Specificity: 97%  
 
 ---
 
