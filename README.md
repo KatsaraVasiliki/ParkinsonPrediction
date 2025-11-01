@@ -17,7 +17,7 @@ This project focuses on the **early detection of Parkinson's Disease (PD)** usin
 ---
 
 ## **Key Features**
-- **Machine Learning Algorithms:** KNN, SVM, Random Forest, Logistic Regression, CART, LDA
+- **Classifiers:** KNN, SVM, Random Forest, Logistic Regression, CART, LDA
 - **Feature Reduction Methods:** PCA, RFE, Correlation Ranking, Statistical Significance Tests
 - **Dataset:** Parkinson's voice dataset from Kaggle ([Link to dataset](https://www.kaggle.com/datasets/sagarbapodara/parkinson-csv))
 
